@@ -1,4 +1,5 @@
-const buku=[
+{
+  "buku": [
   {
     "judul": "From Dream to Habits",
     "description": "Jika Anda merasa kesuksesan terjadi karena kebetulan atau keberuntungan semata, Anda tidak perlu membaca buku ini. Buku From Dream to Habits ditulis untuk Anda yang ingin mewujudkan mimpi tanpa terhalang faktor-faktor luar, karena keberhasilan bergantung kepada kesiapan Anda sendiri. Tetapkan mimpi, buat rencana, laksanakan, dan jadikan kebiasaan, maka Anda akan mencapai mimpi demi mimpi, dari yang kecil hingga yang tertinggi. Go beyond your dream. Jika Anda sudah terbiasa mewujudkan mimpi, Anda akan terus maju, menaklukkan satu demi satu tantangan di dunia.",
