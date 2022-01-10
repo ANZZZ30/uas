@@ -91,4 +91,4 @@
     "img": "https://s3-ap-southeast-1.amazonaws.com/ebook-previews/44644/165120/1.jpg"
   }
 ]
-export default buku;
+}
